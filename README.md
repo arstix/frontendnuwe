@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# readme-templates
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>Templates para empezar a trabjar con de forma rápida utilizando los standar de common-readme. Estos se aplican en [nuwe.io](https://nuwe.io)
 
-## Available Scripts
+## Background
 
-In the project directory, you can run:
+Para facilitar la creación de documentación y el análisis de esta através de un markdown parser se ha creado esta libreria de *templates* de README. 
 
-### `yarn start`
+De esta forma nos aseguramos la estandarización y la calidad de la documentación generada en nuestros retos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Usage
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Simplente clonar y rellenar cada uno de las secciones con la info que se pide.
 
-### `yarn test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```shell
+    # Clone or install commands
+    npm clone https://github.com/arstix/frontendnuwe.git
+```
 
-### `yarn build`
+## Reconocimientos 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [The art of readme](https://github.com/hackergrrl/art-of-readme)
+- [common-readme](https://github.com/hackergrrl/common-readme)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## See more
 
-### `yarn eject`
+Algunos links the licéncias Open source para copiar y pegar:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
+- [BSD 3-Clause "New" or "Revised" license](https://opensource.org/licenses/BSD-3-Clause)
+- [BSD 2-Clause "Simplified" or "FreeBSD" license](https://opensource.org/licenses/BSD-2-Clause)
+- [GNU General Public License (GPL)](https://opensource.org/licenses/gpl-license)
+- [GNU Library or "Lesser" General Public License (LGPL)](https://opensource.org/licenses/lgpl-license)
+- [MIT](https://opensource.org/licenses/MIT)
+- [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0)
+- [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
+- [Eclipse Public License version 2.0](https://opensource.org/licenses/EPL-2.0)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact info
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> arstix@protonmail.com || Arstix
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
+[MIT](https://opensource.org/licenses/MIT)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
