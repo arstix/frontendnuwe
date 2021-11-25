@@ -1,0 +1,483 @@
+.main-form {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    width: 1440px;
+    border-radius: 20px;
+}
+
+.form-main {
+    margin-left: 110px;
+}
+
+
+.apple-pay {
+    width: 421px !important;
+height: 48px;
+background: #000000;
+border-radius: 4px;
+margin-left: 110px;
+margin-top: 103px;
+}
+
+.form-control-email {
+    height: 40px;
+    width: 421px;
+left: 0px;
+right: 0px;
+top: 30px;
+padding: 12px;
+/* white */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+background: #FFFFFF;
+/* border-color */
+
+color: #8792A2;
+border: 1px solid rgba(60, 66, 87, 0.12);
+box-sizing: border-box;
+/* shadow-small */
+
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.08), 0px 1px 1px rgba(0, 0, 0, 0.04);
+border-radius: 8px;
+
+margin: 8px 0px;
+margin-left: 110px;
+}
+
+.form-control-cardNumber {
+    height: 40px;
+    width: 421px;
+left: 0px;
+right: 0px;
+top: 30px;
+
+/* white */
+
+background: #FFFFFF;
+/* border-color */
+
+border: 1px solid rgba(60, 66, 87, 0.12);
+box-sizing: border-box;
+/* shadow-small */
+
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.08), 0px 1px 1px rgba(0, 0, 0, 0.04);
+border-radius: 8px 8px 0px 0px;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin-left: 110px;
+}
+
+.label-email {
+    margin-left: 110px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* text/text-gray */
+
+color: #697386;
+
+
+/* Inside Auto Layout */
+margin-bottom: 8px;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.label-cardDetails {
+    margin-bottom: 8px;
+    margin-left: 110px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+margin-top: 32px;
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* text/text-gray */
+
+color: #697386;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.label-cardName {
+    margin-left: 110px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+margin-bottom: 8px;
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* text/text-gray */
+
+color: #697386;
+margin-top: 32px;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.label-country {
+    margin-left: 110px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+margin-top: 32px;
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+margin-bottom: 8px;
+/* text/text-gray */
+
+color: #697386;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.button-apple {
+    margin-left: 110px;
+
+width: 421px;
+height: 48px;
+
+
+/* text/text-default */
+
+background: #3C4257;
+/* shadow-button */
+
+box-shadow: 0px -1px 1px rgba(0, 0, 0, 0.12), 0px 2px 5px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+color: #8792A2;
+/* Inside Auto Layout */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+margin: 32px 0px;
+margin-left: 110px;
+}
+
+.form-control-creditcarddetails {
+    display: flex;
+    margin-left: 110px;
+    
+}
+
+.form-control-cardDate {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 12px;
+
+position: static;
+height: 40px;
+left: 0px;
+right: 210px;
+top: 0px;
+
+/* white */
+
+background: #FFFFFF;
+/* border-color */
+
+border: 1px solid rgba(60, 66, 87, 0.12);
+box-sizing: border-box;
+border-radius: 0px 0px 0px 8px;
+
+/* Inside Auto Layout */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* icon/icon-gray */
+
+color: #8792A2;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px 8px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+width: 211px;
+}
+
+.form-control-cardCVC {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 9px 12px;
+width: 211px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+/* icon/icon-gray */
+
+color: #8792A2;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px 8px;
+position: static;
+height: 40px;
+left: 0px;
+right: 210px;
+top: 0px;
+
+/* white */
+
+background: #FFFFFF;
+/* border-color */
+
+border: 1px solid rgba(60, 66, 87, 0.12);
+box-sizing: border-box;
+border-radius: 0px 0px 8px 0px;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 0px;
+}
+
+.form-control-cardName {
+    height: 40px;
+    width: 421px;
+left: 0px;
+right: 0px;
+top: 30px;
+
+/* white */
+
+background: #FFFFFF;
+/* border-color */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+border: 1px solid rgba(60, 66, 87, 0.12);
+box-sizing: border-box;
+/* shadow-small */
+padding: 12px;
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.08), 0px 1px 1px rgba(0, 0, 0, 0.04);
+border-radius: 8px;
+
+/* Inside Auto Layout */
+color: #8792A2;
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 8px 0px;
+margin-left: 110px;
+}
+
+input[type="text"], input[type="password"], textarea, select { 
+    outline: none;
+}
+
+.form-control-countrySelector {
+    height: 40px;
+    width: 421px;
+left: 0px;
+right: 0px;
+top: 30px;
+
+/* white */
+
+background: #FFFFFF;
+
+border: 1px solid rgba(60, 66, 87, 0.12);
+box-sizing: border-box;
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.08), 0px 1px 1px rgba(0, 0, 0, 0.04);
+border-radius: 8px 8px 0px 0px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #1A1F36;
+padding: 9px;
+
+margin-left: 110px;
+}
+
+.form-control-countryZIP {
+    height: 40px;
+    width: 421px;
+left: 0px;
+right: 0px;
+top: 30px;
+
+/* white */
+
+background: #FFFFFF;
+/* border-color */
+
+border: 1px solid rgba(60, 66, 87, 0.12);
+box-sizing: border-box;
+/* shadow-small */
+
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.08), 0px 1px 1px rgba(0, 0, 0, 0.04);
+border-radius: 0px 0px 8px 8px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+padding: 12px;
+
+color: #8792A2;
+
+margin-left: 110px;
+}
+
+.line-gray {
+width: 139.67px;
+height: 0px;
+left: 0px;
+top: 92px;
+
+/* border-color */
+
+border: 1px solid rgba(60, 66, 87, 0.12);
+}
+
+.pay-with-card-div {
+    display: flex;
+    align-items: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.pay-with-card-div > p {
+width: 115px;
+height: 24px;
+left: 152.63px;
+top: 80px;
+
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+text-align: center;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* icon/icon-gray */
+
+color: #8792A2;
+}
+
+.form-control-cardNumber {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 137% */
+    margin-right: 12px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    padding: 12px;
+    /* icon/icon-gray */
+    
+    color: #8792A2;
+    
+    
+    /* Inside Auto Layout */
+}

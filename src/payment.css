@@ -1,0 +1,155 @@
+.paragraph__backtomarket {
+    position: static;
+width: 145px;
+height: 20px;
+left: 27px;
+top: 0px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* text/text-dark */
+color: #1A1F36;
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 11px;
+}
+
+.payment-header {
+    display: flex;
+    align-items: center;
+    margin-top: 151px;
+}
+
+.payment__icon {
+    margin-left: 151px;
+    left: 0%;
+right: 0%;
+top: 4.38%;
+color: #8792A2;
+bottom: 4.38%;
+}
+
+.payment-title > p {
+    margin-left: 175px;
+    margin-top: 45px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    font-feature-settings: 'tnum' on, 'lnum' on;
+
+    /* text/text-gray */
+
+    color: #697386;
+}
+
+.payment-pricing > h1 {
+    position: static;
+width: 134px;
+height: 44px;
+left: 29px;
+top: 0px;
+margin-right: 394px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+
+letter-spacing: -0.02em;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* text/text-dark */
+
+color: #1A1F36;
+
+}
+.payment-pricing {
+    display: flex;
+    align-items: center;
+    margin-top: -27px;
+}
+
+.payment-pricing > svg {
+    margin-left: 175px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+letter-spacing: -0.02em;
+font-feature-settings: 'tnum' on, 'lnum' on;
+/* text/text-dark */
+color: #1A1F36;
+}
+
+.payment-picture > img {
+    width: 527.82px;
+    height: 300px;
+    left: 71px;
+    top: 357px;
+    margin-left: 71px;
+    margin-top: 66px;
+    margin-bottom: 95px;
+}
+
+.payment-footer {
+    display: flex;
+    align-items: center;
+    margin-top: -27px;
+}
+
+.payment-line-footer {
+    width: 20px;
+    height: 0px;
+    left: 319px;
+    top: 752px;
+    margin-left: 16px;
+    
+    /* icon/icon-gray */
+    background-color: #8792A2;
+    border: 1px solid #8792A2;
+    transform: rotate(90deg);
+}
+
+.payment-footer > p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 22px;
+/* identical to box height, or 183% */
+
+letter-spacing: 0.015em;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* icon/icon-gray */
+
+color: #8792A2;
+}
+
+.powered-paragraph {
+    margin-left: 175px;
+}
+
+.footer-terms {
+    margin-left: 22px;
+}
+
+.footer-privacy {
+    margin-left: 19px;
+}
