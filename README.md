@@ -1,49 +1,43 @@
-# readme-templates
-
->Templates para empezar a trabjar con de forma rápida utilizando los standar de common-readme. Estos se aplican en [nuwe.io](https://nuwe.io)
-
-## Background
-
-Para facilitar la creación de documentación y el análisis de esta através de un markdown parser se ha creado esta libreria de *templates* de README. 
-
-De esta forma nos aseguramos la estandarización y la calidad de la documentación generada en nuestros retos.
+<h4 align="center">
+  <img alt="common readme" src="common-readme.png">
+</h4>
 
 ## Usage
 
-Simplente clonar y rellenar cada uno de las secciones con la info que se pide.
+With [npm](https://npmjs.org/) installed, run
 
-## Installation
+    $ npm install
+
+And then you'll able to run the code with:
+
+    $ npm start
+
+## Why?
+
+We've developed this project as part of the https://nuwe.io/challenge/jump2digital-front challenge and decided to build it on React as it is the framework we are most familiar with and one of the frameworks that are commonly used. Furthermore:
+
+1. React provides us with more modules which boosts up the process of creating the app.
+
+2. There are components that make the code be more organized.
+
+
+## Install
+
+With [npm](https://npmjs.org/) installed, run
 
 ```shell
-    # Clone or install commands
-    npm clone https://github.com/arstix/frontendnuwe.git
+npm install 
 ```
 
-## Reconocimientos 
+## Acknowledgments
 
-- [The art of readme](https://github.com/hackergrrl/art-of-readme)
-- [common-readme](https://github.com/hackergrrl/common-readme)
+During the development of this project we would like to thanks:
 
-
-## See more
-
-Algunos links the licéncias Open source para copiar y pegar:
-
-- [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
-- [BSD 3-Clause "New" or "Revised" license](https://opensource.org/licenses/BSD-3-Clause)
-- [BSD 2-Clause "Simplified" or "FreeBSD" license](https://opensource.org/licenses/BSD-2-Clause)
-- [GNU General Public License (GPL)](https://opensource.org/licenses/gpl-license)
-- [GNU Library or "Lesser" General Public License (LGPL)](https://opensource.org/licenses/lgpl-license)
-- [MIT](https://opensource.org/licenses/MIT)
-- [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0)
-- [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
-- [Eclipse Public License version 2.0](https://opensource.org/licenses/EPL-2.0)
-
-## Contact info
-
-> arstix@protonmail.com || Arstix
+- https://github.com/facebook/create-react-app for boosting the creation process
+- https://mui.com/ for making the creaetion of icons easier
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT)
+ISC
+
 
