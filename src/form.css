@@ -355,6 +355,21 @@ input[type="text"], input[type="password"], textarea, select {
 }
 
 .form-control-countrySelector {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    outline-width: 0;
+    
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 10em;
+    border: none;
+    font-size: 1rem;
+    
+    border-bottom: 1px solid #757575;
+}
+
+.form-control-countrySelector {
     height: 40px;
     width: 421px;
 left: 0px;
